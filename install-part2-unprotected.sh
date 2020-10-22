@@ -3,8 +3,8 @@
 
 HOSTNAME=provisioned-system
 INSTALLDRIVE=/dev/sda
-MIRROR=https://raw.githubusercontent.com/Colean128/arch-provision/master
-#MIRROR=https://ap.colean.cc/m
+#MIRROR=https://raw.githubusercontent.com/Colean128/arch-provision/master
+MIRROR=https://ap.colean.cc/m
 FINALISE=gnome
 GRAPHICSVENDOR=amd
 AURHELPER=pacaur
