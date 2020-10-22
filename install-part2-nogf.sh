@@ -3,8 +3,8 @@
 
 HOSTNAME=provisioned-system
 INSTALLDRIVE=/dev/sda
-MIRROR=https://raw.githubusercontent.com/Colean128/CAPS/master
-#MIRROR=https://ap.colean.cc/m
+#MIRROR=https://raw.githubusercontent.com/Colean128/CAPS/master
+MIRROR=https://ap.colean.cc/m
 AURHELPER=pacaur
 
 ln -sf /usr/share/zoneinfo/Europe/London /etc/localtime
